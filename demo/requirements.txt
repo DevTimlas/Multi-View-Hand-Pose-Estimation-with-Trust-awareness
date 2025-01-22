@@ -1,0 +1,6 @@
+python-opencv
+matplotlib
+albumentations
+numpy
+mediapipe
+torch
